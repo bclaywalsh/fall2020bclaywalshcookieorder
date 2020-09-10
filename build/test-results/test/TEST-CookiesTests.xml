@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CookiesTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-09-10T18:59:22" hostname="UNIT2020-1" time="0.031">
+  <properties/>
+  <testcase name="shouldReturnTotalOf3ForThinMints()" classname="CookiesTests" time="0.024"/>
+  <testcase name="shouldReturnTotalBoxesAs1AfterRemoval()" classname="CookiesTests" time="0.001"/>
+  <testcase name="shouldReturnTotalOf2ForThinMints()" classname="CookiesTests" time="0.0"/>
+  <testcase name="shouldReturnTotalBoxesAs1WithSameVariety()" classname="CookiesTests" time="0.0"/>
+  <testcase name="shouldReturnTotalBoxes1()" classname="CookiesTests" time="0.001"/>
+  <testcase name="shouldReturnTotalBoxes2()" classname="CookiesTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
